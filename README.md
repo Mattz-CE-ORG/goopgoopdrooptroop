@@ -34,11 +34,7 @@ uv pip install .
 ## Run
 
 ```bash
-goopgoopdrooptroop
-# or the shorter alias
-ggdt
-# or
-python -m goopgoopdrooptroop
+uv run ggdt
 ```
 
 ## Stats
