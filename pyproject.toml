@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "goopgoopdrooptroop"
+version = "1.0.0"
+description = "Command your troop of goop soldiers in this terminal tamagotchi squad manager"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "rich>=13.0",
+]
+
+[project.scripts]
+goopgoopdrooptroop = "goopgoopdrooptroop.__main__:main"
+ggdt = "goopgoopdrooptroop.__main__:main"

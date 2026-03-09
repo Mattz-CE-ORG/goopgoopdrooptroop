@@ -1,0 +1,3 @@
+[console_scripts]
+ggdt = goopgoopdrooptroop.__main__:main
+goopgoopdrooptroop = goopgoopdrooptroop.__main__:main

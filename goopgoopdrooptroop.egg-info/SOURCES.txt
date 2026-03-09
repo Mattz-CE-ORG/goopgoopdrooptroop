@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+goopgoopdrooptroop/__init__.py
+goopgoopdrooptroop/__main__.py
+goopgoopdrooptroop/art.py
+goopgoopdrooptroop/game.py
+goopgoopdrooptroop/goop.py
+goopgoopdrooptroop/missions.py
+goopgoopdrooptroop.egg-info/PKG-INFO
+goopgoopdrooptroop.egg-info/SOURCES.txt
+goopgoopdrooptroop.egg-info/dependency_links.txt
+goopgoopdrooptroop.egg-info/entry_points.txt
+goopgoopdrooptroop.egg-info/requires.txt
+goopgoopdrooptroop.egg-info/top_level.txt
